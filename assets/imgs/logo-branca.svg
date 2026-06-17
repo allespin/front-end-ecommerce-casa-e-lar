@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161" height="36" viewBox="0 0 161 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: "Classy Vogue";
+      }
+
+      .cls-3 {
+        font-family: Montserrat;
+      }
+
+      .cls-4 {
+        font-weight: 700;
+      }
+    </style>
+    <path id="text-path"/>
+  </defs>
+  <text class="cls-1" transform="scale(1.31)"><textPath xlink:href="#text-path"><tspan class="cls-2">Casa<tspan class="cls-3">&amp;<tspan class="cls-4">Lar</tspan></tspan></tspan></textPath></text>
+</svg>
