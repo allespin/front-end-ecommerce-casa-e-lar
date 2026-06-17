@@ -382,10 +382,11 @@ ion-icon {
   @apply fixed
   top-24
   right-2
-  max-w-72
+  max-w-[350px]
+  w-full
   rounded-lg
-  px-2
-  py-3
+  px-4
+  py-5
   z-20
   shadow-[0_-4px_0_#dd9d4cff]
   origin-top
