@@ -40,8 +40,12 @@ ion-icon {
   object-cover;
 }
 
+.grid-list > li:not(.off-card) {
+  @apply mx-auto xs:mx-0;
+}
+
 .grid-list > li:nth-child(even):not(.off-card) {
-  @apply ms-auto
+  @apply xs:ms-auto
 
   /* responsive for sm:635px screen */
   sm:ms-0;
@@ -480,7 +484,7 @@ ion-icon {
 \*-------------------------*/
 
 .testimonial-card:nth-child(1) {
-  @apply left-[calc(-450px_+_-20px)]
+  @apply left-[calc(-100%_-_20px)]
   
   /* responsive for sm:635px screen */
   sm:left-[calc(-580px_+_-30px)]
@@ -494,7 +498,7 @@ ion-icon {
 }
 
 .testimonial-card:nth-child(3) {
-  @apply left-[calc(450px_+_20px)]
+  @apply left-[calc(100%_+_20px)]
   
   /* responsive for sm:635px screen */
   sm:left-[calc(580px_+_30px)]
@@ -504,7 +508,7 @@ ion-icon {
 }
 
 .testimonial-card:nth-child(4) {
-  @apply left-[calc((450px_+_20px)_*_2)]
+  @apply left-[calc((100%_+_20px)_*_2)]
   
   /* responsive for sm:635px screen */
   sm:left-[calc((580px_+_30px)_*_2)]
@@ -536,7 +540,6 @@ ion-icon {
 
 .parallax {
   @apply min-h-[300px]
-  bg-fixed
   bg-center
   bg-cover
   bg-no-repeat
