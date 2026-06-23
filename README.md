@@ -1,6 +1,6 @@
 ### [PORTUGUESE / ENGLISH BELOW] ###
 
-# 🛍️ Casa & Lar - Landing Page de E-Commerce
+# 🏠 Casa & Lar - Landing Page de E-Commerce
 
 <img width="1920" height="1080" alt="desktop-celular-lp" src="https://github.com/user-attachments/assets/9ae30189-01df-407b-912a-006ec09396e7" />
 
