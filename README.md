@@ -11,7 +11,7 @@ Este projeto foi construído para fornecer uma experiência de compra agradável
 ---
 ## 📷 Preview
 
-Visualize a landing page funcional deste e-commerce [AQUI!](https://allespin.github.io/ecommerce-landing-page-casa-e-lar/)
+Visualize a landing page funcional desse projeto [AQUI!](https://allespin.github.io/ecommerce-landing-page-casa-e-lar/)
 
 ---
 
