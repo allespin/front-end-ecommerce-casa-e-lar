@@ -8,7 +8,7 @@ Landing page de e-commerce desenvolvida para a marca fictícia Casa & Lar, espec
 
 A aplicação foi construída com HTML5, CSS3, Tailwind CSS e JavaScript ES6+, priorizando desempenho, responsividade e experiência do usuário. O projeto apresenta uma interface moderna, navegação intuitiva e adaptação para dispositivos móveis, tablets e desktops.
 
-Além do layout responsivo, o conteúdo é alimentado por dados estruturados em JSON, permitindo uma organização mais flexível dos produtos e facilitando futuras integrações e expansões da aplicação.
+Além do layout responsivo, o conteúdo é alimentado por dados estruturados em JSON, permitindo uma organização flexível dos produtos e facilitando futuras integrações e expansões da aplicação.
 
 
 ---
