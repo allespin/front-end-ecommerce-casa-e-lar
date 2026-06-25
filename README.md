@@ -4,9 +4,12 @@
 
 <img width="1920" height="1080" alt="desktop-celular-lp" src="https://github.com/user-attachments/assets/9ae30189-01df-407b-912a-006ec09396e7" />
 
-Desenvolvimento de uma landing page de e-commerce moderna, fluida, responsiva e focada em performance para a loja **Casa & Lar**, estabelecimento fictício responsável pela venda móveis, roupas, plantas, decorações e produtos artesanais de alta qualidade.
+Landing page de e-commerce desenvolvida para a marca fictícia Casa & Lar, especializada na comercialização de móveis, decoração, plantas, vestuário e produtos artesanais.
 
-Este projeto foi construído para fornecer uma experiência de compra agradável e interativa, com design sofisticado, transições suaves e interface responsiva para celulares, tablets e desktops.
+A aplicação foi construída com HTML5, CSS3, Tailwind CSS e JavaScript ES6+, priorizando desempenho, responsividade e experiência do usuário. O projeto apresenta uma interface moderna, navegação intuitiva e adaptação para dispositivos móveis, tablets e desktops.
+
+Além do layout responsivo, o conteúdo é alimentado por dados estruturados em JSON, permitindo uma organização mais flexível dos produtos e facilitando futuras integrações e expansões da aplicação.
+
 
 ---
 ## 📷 Preview
